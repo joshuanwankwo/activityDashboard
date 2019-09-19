@@ -1,0 +1,49 @@
+#sidemenucon{
+    background-color: white;
+    height: 80vh;
+    width: 17vw;
+    border-top-right-radius: 0px;
+    margin-top: 45px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+#imgcon{
+    height: 15%;
+    width: 100%;
+    background-image: url(../../Assets/banner.jpeg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-right-radius: 30px;
+}    
+
+#dp{
+    width: 39%;
+    border-radius: 50%;
+    border: 3px solid white;
+    position: absolute;
+    top: 8%;
+    left: 30%;
+}
+
+#name{
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1;
+    text-align: center;
+    margin-top: 70px;    
+}
+
+#role{
+    font-size: 10px;
+    font-weight: 500;
+    margin-left: 70px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid grey;
+    text-align: center;
+    margin: 10px;
+}

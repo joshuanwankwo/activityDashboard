@@ -1,0 +1,13 @@
+
+.dash{
+    background-color: lightgray;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#control{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}

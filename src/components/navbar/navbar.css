@@ -1,0 +1,31 @@
+#nav{
+    background-color: white;
+    height: 50px;
+}
+
+Nav{
+    font-size: 10px;
+    font-weight: 600;
+}
+
+#logo{
+    padding: 5px;
+}
+
+#search{
+   border-right: none;
+   border-top-left-radius: 40px;
+   border-bottom-left-radius: 40px;
+   margin-left: 10px;
+   width: 60px;
+   font-size: 10px;
+}
+
+#searchbtn{
+    border-left: none;
+    border-radius: 0px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    width: 35px;
+    font-size: 10px;
+}

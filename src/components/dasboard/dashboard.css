@@ -1,7 +1,6 @@
 
 .dash{
-    background-color: lightgray;
-    height: 100vh;
+    /* height: 110vh; */
     display: flex;
     flex-direction: column;
 }
@@ -9,5 +8,7 @@
 #control{
     display: flex;
     flex-direction: row;
-    height: 100vh;
+}
+body{
+    background-color: lightgray;
 }

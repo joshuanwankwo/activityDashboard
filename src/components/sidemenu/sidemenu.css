@@ -47,3 +47,27 @@
     text-align: center;
     margin: 10px;
 }
+
+ul{
+    margin-top: 0px;
+}
+
+li{
+    padding: 8px;
+    list-style: none;
+    text-transform: uppercase;
+    font-family: lato;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+li:hover{
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+}
+
+ li> i{
+     padding-right: 15px;
+ }

@@ -9,7 +9,7 @@ Nav{
 }
 
 #logo{
-    padding: 5px;
+    padding: 10px;
 }
 
 #search{
@@ -28,4 +28,12 @@ Nav{
     border-bottom-right-radius: 40px;
     width: 35px;
     font-size: 10px;
+}
+
+Nav.Link{
+    margin-right: 10px;
+}
+
+a.nav-link{
+    margin-right: 30px;
 }

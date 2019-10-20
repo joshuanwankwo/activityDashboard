@@ -3,7 +3,6 @@ import "./dashboard.css"
 import SideMenu from "../sidemenu/sidemenu"
 import Board from "../board/board"
 import NavBar from "../navbar/navbar"
-import ApplicForm from "../login/Login"
 
 
  class Dashboard extends React.Component{

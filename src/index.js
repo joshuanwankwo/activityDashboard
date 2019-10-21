@@ -1,12 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Dashboard from "./components/dasboard/dashboard"
-import NavBar from "./components/navbar/navbar"
+import App from "./components/App/App"
+
+
 
 const Index = () => {
   return (
     <div>
-      <Dashboard />
+      <App />
     </div>
   ) 
 };
